@@ -7,8 +7,8 @@ cache_dir = '.\.cache'
 requirements = []
 [contracts.shard-deploy]
 path = 'contracts/shard-deploy.clar'
-clarity_version = 3
-epoch = 3.0
+clarity_version = 2
+epoch = 2.4
 [repl.analysis]
 passes = ['check_checker']
 
